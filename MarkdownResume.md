@@ -10,7 +10,7 @@ firstlast@gmail.com
 
 ### **Software Technical Writer II**
 #### Company #1 
-*City, State*
+*City, State*<br>
 *Jun 2020 - Present*
 + Collaborates with technical experts and department leads to create a variety of documentation including standard operating procedures (SOPs), work instruction documents (WIDs), support manuals, IT procedures, and validation documentation
 + Edits information for clarity, conciseness, and grammatical accuracy to deliver high-quality technical documentation that satisfies applicable regulatory standards
@@ -21,7 +21,7 @@ firstlast@gmail.com
 
 ### **Technical Writer**
 #### Company #2
-*City, State*
+*City, State*<br>
 *Dec 2018 - May 2020*
 + Collaborated with a team of technical writers to edit a large selection of work instruction documents subject to change with the implementation of a manufacturing execution system
 + Revised hundreds of documents including SOPs, WIDs, and standard work documents to ensure alignment with company branding initiative
